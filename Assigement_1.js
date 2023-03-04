@@ -12,7 +12,7 @@ Symbol
 Objects
  */
 
-/* let a = " i am happy to join PW Skills FSWD Course";
+ let a = " i am happy to join PW Skills FSWD Course";
 
 let b = 9 ; //interger
 let c = 10.2 //floating value
@@ -38,4 +38,3 @@ let m = {
     name : "PW skills" , course : "FSWD"
 }
 console.log(m);
- */
